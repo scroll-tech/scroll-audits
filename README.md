@@ -18,13 +18,13 @@ Scroll has worked with several industry-leading security audit firms to review o
 
 ### Bridge and rollup contract
 - OpenZeppelin
-  - [Phase 1](https://blog.openzeppelin.com/scroll-layer-1-audit-1)
-  - [Phase 2](https://blog.openzeppelin.com/scroll-phase-2-audit)
-  - [GasSwap, Multiple Verifier, Wrapped Ether and Diff](https://blog.openzeppelin.com/scroll-gasswap-multiple-verifier-wrapped-ether-and-diff-audit)
-  - [ScrollOwner and Rate Limiter](https://blog.openzeppelin.com/scrollowner-and-rate-limiter-audit)
-  - [USDC Gateway](https://blog.openzeppelin.com/scroll-usdc-gateway-audit)
-  - [Contract diff](https://blog.openzeppelin.com/scroll-diff-audit-report)
-  - [Bridge Gas Optimizations Audit](./Scroll%20-%20Bridge%20Gas%20Optimizations%20Audit%20Report%20(Feb%202024).pdf)
+  - [Phase 1](./Bridge%20and%20rollup%20contract/202307%20Scroll%20Layer%201%20Audit%20Report.pdf)
+  - [Phase 2](./Bridge%20and%20rollup%20contract/202307%20Scroll%20Layer%202%20Audit%20Report.pdf)
+  - [GasSwap, Multiple Verifier, Wrapped Ether and Diff](./Bridge%20and%20rollup%20contract//202308%20Scroll%20GasSwap,%20Multiple%20Verifier,%20Wrapped%20Ether%20and%20Diff%20Final%20Audit%20Report.pdf)
+  - [ScrollOwner and Rate Limiter](./Bridge%20and%20rollup%20contract/202309%20ScrollOwner%20and%20Rate%20Limiter%20Audit.pdf)
+  - [USDC Gateway](./Bridge%20and%20rollup%20contract/202309%20Scroll%20USDC%20Gateway%20Audit%20Report.pdf)
+  - [Contract diff](./Bridge%20and%20rollup%20contract/202309%20Scroll%20Diff%20Audit%20Report.pdf)
+  - [Bridge Gas Optimizations](./Scroll%20-%20Bridge%20Gas%20Optimizations%20Audit%20Report%20(Feb%202024).pdf)
 - Zellic
   - [Report 1](./Bridge%20and%20rollup%20contract/Scroll%20-%2005.26.23%20Zellic%20Audit%20Report.pdf)
   - [Report 2](./Bridge%20and%20rollup%20contract/Scroll%20-%2009.27.23%20Zellic%20Audit%20Report.pdf)
