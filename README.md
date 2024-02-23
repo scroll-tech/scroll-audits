@@ -24,7 +24,7 @@ Scroll has worked with several industry-leading security audit firms to review o
   - [ScrollOwner and Rate Limiter](./Bridge%20and%20rollup%20contract/202309%20ScrollOwner%20and%20Rate%20Limiter%20Audit.pdf)
   - [USDC Gateway](./Bridge%20and%20rollup%20contract/202309%20Scroll%20USDC%20Gateway%20Audit%20Report.pdf)
   - [Contract diff](./Bridge%20and%20rollup%20contract/202309%20Scroll%20Diff%20Audit%20Report.pdf)
-  - [Bridge Gas Optimizations](./Scroll%20-%20Bridge%20Gas%20Optimizations%20Audit%20Report%20(Feb%202024).pdf)
+  - [Bridge Gas Optimizations](./Bridge%20and%20rollup%20contract/Scroll%20-%20Bridge%20Gas%20Optimizations%20Audit%20Report%20(Feb%202024).pdf)
 - Zellic
   - [Report 1](./Bridge%20and%20rollup%20contract/Scroll%20-%2005.26.23%20Zellic%20Audit%20Report.pdf)
   - [Report 2](./Bridge%20and%20rollup%20contract/Scroll%20-%2009.27.23%20Zellic%20Audit%20Report.pdf)
