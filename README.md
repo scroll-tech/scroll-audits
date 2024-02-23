@@ -5,7 +5,7 @@ Scroll has worked with several industry-leading security audit firms to review o
 - Trail of Bits
   - [Wave 1](./zkEVM%20circuits/2023-04-scroll-zkEVM-wave1-securityreview%20(1).pdf)
   - [Wave 2](./zkEVM%20circuits/2023-08-scroll-zkEVM-wave2-securityreview.pdf)
-  - [Wave 3](.zkEVM%20circuits/2023-09-scroll-zkEVM-wave3-securityreview.pdf)
+  - [Wave 3](./zkEVM%20circuits/2023-09-scroll-zkEVM-wave3-securityreview.pdf)
 - Zellic and Kalos
   - [Wave 1](./zkEVM%20circuits/Scroll%20zkEVM%20-%20Part%201%20-%20Audit%20Report.pdf)
   - [Wave 2](./zkEVM%20circuits/Scroll%20zkEVM%20-%20Part%202%20-%20Audit%20Report.pdf)
