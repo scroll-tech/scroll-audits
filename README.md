@@ -28,3 +28,8 @@ Scroll has worked with several industry-leading security audit firms to review o
 - Zellic
   - [Report 1](./Bridge%20and%20rollup%20contract/Scroll%20-%2005.26.23%20Zellic%20Audit%20Report.pdf)
   - [Report 2](./Bridge%20and%20rollup%20contract/Scroll%20-%2009.27.23%20Zellic%20Audit%20Report.pdf)
+
+### Euclid Upgrade
+- Trail of Bits
+  - [Phase 1](./Euclid%20Upgrade/2025-04-scroll-euclid-phase1-securityreview.pdf)
+  - [Phase 2](./Euclid%20Upgrade/2025-04-scroll-euclid-phase2-securityreview.pdf)
