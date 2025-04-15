@@ -31,5 +31,5 @@ Scroll has worked with several industry-leading security audit firms to review o
 
 ### Euclid Upgrade
 - Trail of Bits
-  - [Phase 1](./Euclid%Upgrade/2025-04-scroll-euclid-phase1-securityreview.pdf)
-  - [Phase 2](./Euclid%Upgrade/2025-04-scroll-euclid-phase2-securityreview.pdf)
+  - [Phase 1](./Euclid%20Upgrade/2025-04-scroll-euclid-phase1-securityreview.pdf)
+  - [Phase 2](./Euclid%20Upgrade/2025-04-scroll-euclid-phase2-securityreview.pdf)
