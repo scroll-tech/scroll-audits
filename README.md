@@ -1,6 +1,6 @@
 ## Independent Audits
 For the most complete and current overview of all third-party and internal reviews, see our documentation:  
-<a href="https://docs.scroll.io/en/technology/security/audits-and-bug-bounty/" target="_blank" rel="noopener noreferrer">🔗 Scroll – Audits & Bug Bounty</a>
+🔗 **[Scroll – Audits & Bug Bounty](https://docs.scroll.io/en/technology/security/audits-and-bug-bounty/)**
 
 Scroll has worked with several industry-leading security audit firms to review our codebase, with critical code receiving reviews from multiple teams, including [Trail of Bits](https://www.trailofbits.com/), [OpenZeppelin](https://www.openzeppelin.com/), [Zellic](https://www.zellic.io/), and [KALOS](https://www.kalos.xyz/).
 
