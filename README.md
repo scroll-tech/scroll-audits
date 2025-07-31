@@ -38,4 +38,4 @@ Scroll has worked with several industry-leading security audit firms to review o
 - Trail of Bits
   - [Report](./Feynman%20Upgrade/Feynman-Upgrade-Trails-of-Bits.pdf.pdf)
 - Internal
-  - [Internal Report](./Feynman%20Upgrade/Internal-Audit-Scroll-Final-Report.pdf.pdf)
+  - [Internal Report](./Feynman%20Upgrade/Internal-Audit-Scroll-Final-Report.pdf)
