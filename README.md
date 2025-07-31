@@ -33,3 +33,9 @@ Scroll has worked with several industry-leading security audit firms to review o
 - Trail of Bits
   - [Phase 1](./Euclid%20Upgrade/2025-04-scroll-euclid-phase1-securityreview.pdf)
   - [Phase 2](./Euclid%20Upgrade/2025-04-scroll-euclid-phase2-securityreview.pdf)
+
+### Feynman Upgrade
+- Trail of Bits
+  - [Report](./Feynman%20Upgrade/Feynman-Upgrade-Trails-of-Bits.pdf)
+- Internal
+  - [Internal Report](./Feynman%20Upgrade/Internal-Audit-Scroll-Final-Report.pdf)
