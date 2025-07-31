@@ -1,4 +1,7 @@
 ## Independent Audits
+For the most complete and current overview of all third-party and internal reviews, see our documentation:  
+🔗 **[Scroll – Audits & Bug Bounty](https://docs.scroll.io/en/technology/security/audits-and-bug-bounty/)**
+
 Scroll has worked with several industry-leading security audit firms to review our codebase, with critical code receiving reviews from multiple teams, including [Trail of Bits](https://www.trailofbits.com/), [OpenZeppelin](https://www.openzeppelin.com/), [Zellic](https://www.zellic.io/), and [KALOS](https://www.kalos.xyz/).
 
 ### zkEVM circuits
@@ -6,6 +9,8 @@ Scroll has worked with several industry-leading security audit firms to review o
   - [Wave 1](./zkEVM%20circuits/2023-04-scroll-zkEVM-wave1-securityreview%20(1).pdf)
   - [Wave 2](./zkEVM%20circuits/2023-08-scroll-zkEVM-wave2-securityreview.pdf)
   - [Wave 3](./zkEVM%20circuits/2023-09-scroll-zkEVM-wave3-securityreview.pdf)
+  - [EIP-4844 Blob Support](./zkEVM%20circuits/2024-04-scroll-4844-blob-securityreview.pdf)
+
 - Zellic and Kalos
   - [Wave 1](./zkEVM%20circuits/Scroll%20zkEVM%20-%20Part%201%20-%20Audit%20Report.pdf)
   - [Wave 2](./zkEVM%20circuits/Scroll%20zkEVM%20-%20Part%202%20-%20Audit%20Report.pdf)
