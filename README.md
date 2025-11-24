@@ -45,3 +45,8 @@ Scroll has worked with several industry-leading security audit firms to review o
   - [Report](./Feynman%20Upgrade/Feynman-Upgrade-Trails-of-Bits.pdf)
 - Internal
   - [Internal Report](./Feynman%20Upgrade/Internal-Audit-Scroll-Final-Report.pdf)
+
+### Galileo Upgrade
+
+- Internal
+  - [Internal Report](./Galileo%20Upgrade/Galileo_Final_Report.pdf)
